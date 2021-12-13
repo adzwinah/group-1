@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # group-1
-# AllanAfendy
+# Allan
 # Ezza
-# Dani_
+# Dani
 # Winah
